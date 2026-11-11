@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KAPS</string>
+    <string name="widget_description">Place transparent PNGs, animated GIFs, and sharp vector SVGs directly on your home screen.</string>
+    <string name="widget_Configuration_title">Configure KAPS Widget</string>
+    <string name="nav_my_widgets">My Widgets</string>
+    <string name="nav_create_widget">Create Widget</string>
+    <string name="nav_image_library">Image Library</string>
+    <string name="nav_settings">Settings</string>
+    <string name="btn_create_new_widget">Create New Widget</string>
+    <string name="btn_import_file">Import Device File (SAF)</string>
+    <string name="btn_save_widget">Save Widget</string>
+    <string name="btn_pin_to_home">Place on Home Screen</string>
+    <string name="status_missing_source">Source file moved or missing</string>
+</resources>

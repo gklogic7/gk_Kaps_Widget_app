@@ -1,0 +1,6 @@
+{
+  "name": "KAPS",
+  "description": "Super-lightweight offline Android studio for custom transparent PNG, animated GIF, and vector SVG home-screen widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
